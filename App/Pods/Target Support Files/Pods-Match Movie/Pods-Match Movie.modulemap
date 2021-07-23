@@ -1,0 +1,6 @@
+framework module Pods_Match_Movie {
+  umbrella header "Pods-Match Movie-umbrella.h"
+
+  export *
+  module * { export * }
+}
